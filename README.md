@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0040&center=true&vCenter=true&width=435&lines=hi+its+afeef&repeat=false)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AliAI11&color=FF0040&style=for-the-badge)
-
 </div>
 
 ---
