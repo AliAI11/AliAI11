@@ -40,27 +40,4 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=FF0040)
 
 ---
-
-## GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=AliAI11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF0040&text_color=c9d1d9&icon_color=FF0040&border_color=FF0040)
-
-![](https://nirzak-streak-stats.vercel.app/?user=AliAI11&theme=radical&hide_border=false&background=0d1117&ring=FF0040&fire=FF0040&currStreakLabel=FF0040&sideNums=FF0040&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=FF0040)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAI11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=FF0040&text_color=c9d1d9&border_color=FF0040)
-
-</div>
-
----
-
-## Activity Graph
-
-[![Afeef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AliAI11&bg_color=0d1117&color=FF0040&line=FF0040&point=FF0040&area=true&hide_border=false&area_color=FF0040)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-
 </div>
